@@ -6,7 +6,7 @@ A glass-morphic desktop environment that runs in your browser with macOS-inspire
 
 ##  Try it
 
-Open `index.html` in any modern browser to start using VibeOS.
+https://vibe-os-lac.vercel.app/
 
 ##  Features
 
