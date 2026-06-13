@@ -37,7 +37,7 @@ VibeOS uses vanilla JavaScript with Web APIs for a native-like desktop experienc
 ##  Credits
 
 - Icons by Lucide (https://lucide.dev)
-- Fonts: Inter UI (system fallback)
+- Fonts: Inter UI 
 - Design inspiration: macOS Big Sur and later
 
 ---
